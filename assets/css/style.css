@@ -1,3 +1,5 @@
+/* Page syles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,17 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header */
 
 header {
     padding: 20px;
@@ -23,6 +36,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation */
 
 header nav {
     padding-top: 15px;
@@ -41,22 +56,15 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Large top image */
 
 .hero img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
 }
+
+/* Services listings */
 
 .float-left {
     float: left;
@@ -92,6 +100,8 @@ p {
     font-size: 36px;
 }
 
+/* Benefits aside */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +128,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 footer {
     padding: 30px;
