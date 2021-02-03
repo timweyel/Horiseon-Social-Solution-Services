@@ -61,6 +61,8 @@ https://github.com/timweyel/Horiseon-Social-Solution-Services
 * added header, nav, main, section, article, aside, alt image, title, and footer tags
 * consolidated to use service and benefit classes. this consolidated the css quite a bit.
 * move hero image from css to html
+* annotated css
+* grouped css according to relevancy 
 
 #### Screenshot of final product:
 ![Screenshot of final product](https://github.com/timweyel/Horiseon-Social-Solution-Services/blob/main/screenshot.png)
